@@ -24,19 +24,8 @@
 - email: pembaca@gmail.com
 - Password: 123123123
 
-## Install
 
-**Clone Repository**
 
-```bash
-git clone https://github.com/musyahya/laravel_8_blog.git
-```
-
-**Download zip**
-
-```bash
-extract file zip
-```
 
 ## Buka di kode editor
 
@@ -56,14 +45,14 @@ copy .env.example menjadi .env
 ## Buat database di localhost 
 
 ```bash
-nama database : laravel_8_blog
+nama database : laravel8_blog
 ```
 
 ## Setting database di .env
 
 ```bash
 DB_PORT=3306
-DB_DATABASE=laravel_8_blog
+DB_DATABASE=laravel8_blog
 DB_USERNAME=root
 DB_PASSWORD=
 ```
